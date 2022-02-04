@@ -1,0 +1,10 @@
+D:\.Net_Projects\Bib\consolee\bin\Debug\consolee.exe.config
+D:\.Net_Projects\Bib\consolee\bin\Debug\consolee.exe
+D:\.Net_Projects\Bib\consolee\bin\Debug\consolee.pdb
+D:\.Net_Projects\Bib\consolee\bin\Debug\Bib.dll
+D:\.Net_Projects\Bib\consolee\bin\Debug\Bib.pdb
+D:\.Net_Projects\Bib\consolee\obj\Debug\consolee.csproj.AssemblyReference.cache
+D:\.Net_Projects\Bib\consolee\obj\Debug\consolee.csproj.CoreCompileInputs.cache
+D:\.Net_Projects\Bib\consolee\obj\Debug\consolee.csproj.CopyComplete
+D:\.Net_Projects\Bib\consolee\obj\Debug\consolee.exe
+D:\.Net_Projects\Bib\consolee\obj\Debug\consolee.pdb

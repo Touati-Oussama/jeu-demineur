@@ -1,0 +1,8 @@
+D:\.Net_Projects\Bib\bin\Debug\Bib.dll
+D:\.Net_Projects\Bib\bin\Debug\Bib.pdb
+D:\.Net_Projects\Bib\obj\Debug\Bib.csproj.AssemblyReference.cache
+D:\.Net_Projects\Bib\obj\Debug\Bib.csproj.CoreCompileInputs.cache
+D:\.Net_Projects\Bib\obj\Debug\Bib.dll
+D:\.Net_Projects\Bib\obj\Debug\Bib.pdb
+D:\.Net_Projects\Bib\bin\Debug\FontAwesome.Sharp.dll
+D:\.Net_Projects\Bib\obj\Debug\Bib.csproj.CopyComplete
